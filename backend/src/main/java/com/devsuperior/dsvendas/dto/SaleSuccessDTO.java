@@ -44,4 +44,6 @@ public class SaleSuccessDTO implements Serializable {
 	public void setDeals(Long deals) {
 		this.deals = deals;
 	}
+
+	
 }
